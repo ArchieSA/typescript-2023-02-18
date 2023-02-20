@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "strict": true,
+    "moduleResolution": "node",
+    "allowJs": true,
+    "checkJs": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "outDir": "lib",
+    "declaration": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["lib"]
+}
